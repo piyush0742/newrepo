@@ -1,1 +1,1 @@
-Repository for practicing CI_CD
+Repository for practicing CI-CD
